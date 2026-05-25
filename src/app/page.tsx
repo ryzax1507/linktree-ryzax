@@ -172,7 +172,7 @@ export default function Home() {
 
           {/* Github */}
           <motion.a
-            href="https://github.com/ryzax"
+            href="https://github.com/ryzax1507"
             target="_blank"
             rel="noopener noreferrer"
             variants={itemVariants}
